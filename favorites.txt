@@ -2,3 +2,8 @@ fav movies:
     - My Fair Lady (1964)
     - Ladyhawke (1985)
     - The Hunger Games (2012)
+
+fav foods:
+    - pizza
+    - burger
+    - chicken wings
