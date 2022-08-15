@@ -1,0 +1,4 @@
+fav foods:
+    - pizza
+    - burger
+    - chicken wings
